@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-git clone https://github.com/your-username/laravel-url-shortener.git cd laravel-url-shortener
+git clone (https://github.com/maurya-sandhya/task_management.git)
 
 
 cp .env.example .env
