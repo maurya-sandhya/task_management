@@ -10,7 +10,7 @@
 git clone (https://github.com/maurya-sandhya/task_management.git)
 
 
-cp .env.example .env
+create .env file using env.example file
 
 php artisan migrate
 
